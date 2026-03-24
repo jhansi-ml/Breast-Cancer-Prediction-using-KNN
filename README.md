@@ -11,7 +11,7 @@ This project uses the K-Nearest Neighbors (KNN) algorithm to classify breast can
 - Hyperparameter tuning
 
 ## 📈 Results
-- Accuracy: ~95-97%
+- Accuracy: ~96%
 - Evaluation:
   - Confusion Matrix
   - Precision & Recall
